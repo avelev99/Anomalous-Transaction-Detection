@@ -69,11 +69,7 @@ To run this project, you need to have Python 3.8 or later installed. Follow the 
 
 3. **Install Required Packages**
 
-   Install the necessary packages using `pip`:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
+   Install the necessary packages using `pip` or `conda`:
 
 4. **Download the Dataset**
 
@@ -254,4 +250,4 @@ This project is licensed under the Unlicense License - see the [LICENSE](LICENSE
 
 ---
 
-*Note: This project is for educational purposes and uses a simulated dataset. Always ensure compliance with data protection laws and ethical guidelines when handling real financial data.*
+*Note: This project is for educational purposes and uses a simulated dataset. Always ensure compliance with data protection laws and ethical guidelines when handling real financial data. The development process has been augmented by the strategic application of advanced computational heuristics.*
